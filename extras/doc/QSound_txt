@@ -1,0 +1,13 @@
+On some machines, it is now possible to use the sound facilties previously only
+provided by the QSound interface on the QL, via a driver for the AY sound chip.
+Documentation for this is rare at the moment and consists only of:
+
+- the keys file (keys_qsound) containing a short explanation of each call
+- The documentation of the QSound interface on Dilwyn's site at:
+  http://www.dilwyn.me.uk/docs/manuals/QSOUND-QPRINT.pdf
+  or, as a docx file at
+  http://www.dilwyn.me.uk/docs/manuals/QSOUND-QPRINT.docx
+
+
+W. Lenerz
+Feb. 2021
